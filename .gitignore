@@ -1,0 +1,8 @@
+#ignoring specific file
+.env
+#ignoring specific directories
+/Activity25
+#adding an exception
+!main.cpp
+!header.h
+!function.cpp
